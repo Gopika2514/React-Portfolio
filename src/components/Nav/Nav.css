@@ -1,0 +1,10 @@
+.nav-bar{
+    display: flex;
+    /* justify-content: flex-end; */
+    justify-content: space-evenly;
+    /* flex-basis: 20%; */
+    border-style: solid;
+    background-color:cornsilk;
+    padding: 30px;
+    margin-bottom: 20px;
+}
